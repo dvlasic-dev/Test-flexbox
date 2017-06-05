@@ -1,2 +1,2 @@
-# phototest
-Test website made for photography
+# Flexbox-testing
+Test website made to learn and experiment with flexbox
